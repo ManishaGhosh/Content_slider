@@ -1,3 +1,3 @@
 # content_slider
 Available in the following link:
-https://manishaghosh.github.io/content_slider/
+https://manishaghosh.github.io/Content_slider/
