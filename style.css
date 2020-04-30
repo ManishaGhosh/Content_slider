@@ -1,0 +1,95 @@
+.titlesec
+{
+  font-family: "Lucida Sans Unicode", sans-serif;
+  font-size: 4vw;
+  text-align: center;
+  padding: 2%;
+  background-color:#3d0b8c;
+  color: White;
+
+    position: sticky;
+   top:0;
+}
+.content
+{
+  background-color:#edebf0;
+
+
+}
+#contentsec-last
+{
+  width:80%;
+  align-items: center;
+  background-color: skyblue;
+  float: middle;
+  margin-left: 10%;
+}
+#contentsec
+{
+  width:80%;
+  align-items: center;
+  background-color: skyblue;
+  float: middle;
+  margin-left: 10%;
+
+}
+
+
+#actimg
+{
+width:50%;
+height: 25%;
+padding: 3%;
+margin-left: 22%;
+margin-right: 20%;
+
+
+}
+#textsec
+{
+text-align: center;
+margin-left: 10%;
+margin-right: 10%;
+font-family: "Lucida Sans Unicode", sans-serif;
+}
+
+#texttitle
+{
+  font-size: 2vw;
+}
+#textactual
+{
+  font-family: monospace;
+  justify-content: center;
+font-size: 1vw;
+padding: 3%;
+}
+#icona
+{
+      position: sticky;
+top:0;
+}
+#iconb
+{
+      position: sticky;
+      top:0;
+
+}
+#backicon
+{
+  width:4%;
+  height: 4%;
+  padding: 2px;
+  float: left;
+  display: inline-block;
+  margin-top: 20%;
+}
+#nexticon
+{
+float:right;
+  width:4%;
+  height: 4%;
+  padding: 2px;
+    display: inline-block;
+margin-top: 20%;
+}
